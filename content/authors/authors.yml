@@ -1,8 +1,7 @@
-- name: Dennis Brotzky
+- name: Valeriy Sirotkin
   bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
-  avatar: ./avatars/dennis-brotzky.jpg
+    Валерий Сироткин - продуктовый дизайнер, проектировщик пользовательских интерфейсов и командный игрок. Сейчас занимается развитием интерфейсов медиасервисов и почты @mail.
+  avatar: ./avatars/profile-pic.jpg
   featured: true
   social:
     - name: github
@@ -16,9 +15,9 @@
     - name: linkedin
       url: https://github.com
 
-- name: Valeriy Sirotkin
+- name: Tim
   bio: |
-    Product designer from Russia, mail.ru
+    Валерий Сироткин - продуктовый дизайнер, проектировщик пользовательских интерфейсов и командный игрок. Сейчас занимается развитием интерфейсов медиасервисов и почты @mail.
   avatar: ./avatars/profile-pic.jpg
   featured: true
   social:
