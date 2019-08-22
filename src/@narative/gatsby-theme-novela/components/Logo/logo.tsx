@@ -6,7 +6,7 @@ import mediaqueries from "@narative/gatsby-theme-novela/src/styles/media";
 const Logo = ({ fill = "#fff" }: { fill?: string }) => {
   return (
     <LogoContainer>
-<h1>SIROTKIN</h1>
+        <h1>SIROTKIN</h1>
     </LogoContainer>
   );
 };

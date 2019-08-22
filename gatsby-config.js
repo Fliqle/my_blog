@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://sirotkin.netlify.com`,
     description: `Product designer personal page and blog`,
     hero: {
-      heading: `Design, technology and productivity`,
+      heading: `About design, technology and productivity`,
       maxWidth: 652,
     },
     social: [
