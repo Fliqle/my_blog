@@ -1,19 +1,18 @@
 - name: Valeriy Sirotkin
   bio: |
-     Всем привет, у микрофона Валерий Сироткин. Дизайнер из команды дизайн-системы @mail.ru. В основном я пишу о дизайне, технологиях, культуре и обо всем, о чем я хочу рассказать в любой конкретный день. Я стараюсь не писать в блог о политике.
+     Всем привет, меня зовут Валерий Сироткин. Я дизайнер из команды дизайн-системы @mail.ru. Это мой личный блог о дизайне, технологиях, культуре и обо всем, о чем я хочу рассказать в любой конкретный день.
   avatar: ./avatars/profile-pic.jpg
   featured: true
   social:
     - name: github
-      url: https://github.com
+      url: https://github.com/fliqle
     - name: twitter
-      url: https://github.com
+      url: https://twitter.com/fliqle
     - name: instagram
-      url: https://github.com
+      url: https://instagram.com/fliqle
     - name: dribbble
-      url: https://github.com
-    - name: linkedin
-      url: https://github.com
+      url: https://dribbble.com/fliqle
+
 
 - name: Tim
   bio: |
