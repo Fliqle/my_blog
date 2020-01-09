@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Val Sirotkin`,
+    title: `Sirotkin`,
     name: `Val Sirotkin`,
     siteUrl: `https://sirotkin.netlify.com`,
     description: `Product designer personal page and blog`,
@@ -23,7 +23,7 @@ module.exports = {
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/in/vsirotkin/`,
       },
       {
         name: `dribbble`,
