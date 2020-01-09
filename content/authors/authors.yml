@@ -12,21 +12,3 @@
       url: https://instagram.com/fliqle
     - name: dribbble
       url: https://dribbble.com/fliqle
-
-
-- name: Tim
-  bio: |
-    Валерий Сироткин - продуктовый дизайнер, проектировщик пользовательских интерфейсов и командный игрок. Сейчас занимается развитием интерфейсов медиасервисов и почты @mail.
-  avatar: ./avatars/profile-pic.jpg
-  featured: true
-  social:
-    - name: github
-      url: https://github.com
-    - name: twitter
-      url: https://github.com
-    - name: instagram
-      url: https://github.com
-    - name: dribbble
-      url: https://github.com
-    - name: linkedin
-      url: https://github.com
