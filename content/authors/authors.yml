@@ -1,6 +1,6 @@
-- name: Val Sirotkin
+- name: Valeriy Sirotkin
   bio: |
-     Всем привет, меня зовут Валерий Сироткин. Я дизайнер из команды дизайн-системы @mail.ru. Это мой личный блог о дизайне, технологиях, культуре и обо всем, о чем я хочу рассказать в любой конкретный день.
+     Hello everyone, my name is Valery Sirotkin. I'm a designer from the design system team @ mail.ru this is my personal blog about design, technology, culture, and everything I want to talk about on any given day.
   avatar: ./avatars/profile-pic.jpg
   featured: true
   social:

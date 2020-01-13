@@ -1,8 +1,4 @@
-<a href="https://novela.narative.co" target="_blank">
-<img src="https://raw.githubusercontent.com/narative/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-hero.jpg" alt="gatsby-novela-theme hero image" />
-</a>
-
-<br/>
+My experiments with blogging and Gatsby. If you want blog like my, try Gatsby cloud and theme Novela.
 
 # Gatsby Starter Novela
 
@@ -21,40 +17,6 @@ Novela is built by the team at [Narative](https://www.narative.co), and built fo
 <img src="https://raw.githubusercontent.com/narative/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-cta-figma.jpg" alt="gatsby-novela-theme figma link" width="295px" />
 </a>
 </div>
-
-# Using Gatsby Starter Novela
-
-This guide will take you through setting up Novela with Gatsby Starter Novela.
-
-### Step 1: Starter installation
-
-##### With `gatsby-cli`:
-
-```sh
-gatsby new novela-site https://github.com/narative/gatsby-starter-novela
-```
-
-##### With `git clone`:
-
-```sh
-git clone git@github.com:narative/gatsby-starter-novela.git novela-site
-
-cd novela-site
-
-yarn
-```
-
-### Step 2: Develop & Build
-
-Once installed or cloned locally and all packages are installed you can begin developing your site.
-
-```sh
-# Run localhost
-yarn dev
-
-# Build your Gatsby site
-yarn build
-```
 
 ### Help
 
