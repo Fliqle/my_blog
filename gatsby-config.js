@@ -2,10 +2,10 @@ module.exports = {
   siteMetadata: {
     title: `Sirotkin`,
     name: `Valeriy Sirotkin`,
-    siteUrl: `https://sirotkin.netlify.com`,
+    siteUrl: `https://sirotkin.netlify.app`,
     description: `Valeriy Sirotkin personal page and blog. About design, technology, productivity and life. `,
     hero: {
-      heading: `About design, technology and productivity`,
+      heading: `Valeriy Sirotkin lead product designer in Mail.ru Group`,
       maxWidth: 652,
     },
     social: [
